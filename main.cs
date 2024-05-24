@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Lyrics
 {
     static void Main(string[] args)
     {
